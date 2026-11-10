@@ -1,4 +1,5 @@
-Plaintext
 streamlit
 openai
 pillow
+pandas
+requests
